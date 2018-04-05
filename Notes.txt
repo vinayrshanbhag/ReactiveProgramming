@@ -1,0 +1,6 @@
+Observable
+  May signal end of data stream
+  Data through data channel
+  Error through error channel.
+  The movement end signal is sent, data channel is closed.
+  No data after error signal.
